@@ -1,0 +1,1 @@
+console.log('it is from index.js')
